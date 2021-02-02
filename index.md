@@ -24,9 +24,9 @@ title: Peter Forret's CV
 **Brightfish nv**: 
 - _Technical Director_ 
 - responsible for software development for planning and operations
-- developed content creation and distribution suite - DCP, micro-services, Laravel
-- developed of data analysis/visualisation/forecast tools 
-- integration of new SaaS system 
+- designed and developed DCP content creation and distribution suite
+- designed and developed data analysis/visualisation/forecast tools 
+- integration of new SaaS workflow system 
 
 `2000-2005`
 **Hypertrust nv**
