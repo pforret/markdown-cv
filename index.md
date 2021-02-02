@@ -3,7 +3,8 @@ layout: cv
 title: Peter Forret's CV
 ---
 # Peter Forret
-CTO, software architect
+![](https://avatars.githubusercontent.com/u/474312?s=200&u=40180cc6243c8ea6115c8456dcaed6754cb2339f&v=4)
+`CTO, software architect`
 
 <div id="webaddress">
 <a href="peter@forret.com">peter@forret.com</a>
@@ -12,24 +13,23 @@ CTO, software architect
 
 ### Specialized in
 
-(web) application architecture, audio/video, PKI & security, devops, automation
+- (web) application architecture, product requirements, technical writing
+- microservices, devops, automation, PKI & security
+- audio/video/image processing, Wordpress, PHP, Laravel
+
 
 ## Experience
 
 `2006-now`
-**Brightfish**: 
+**Brightfish nv**: 
 - _Technical Director_ 
 - responsible for software development for planning and operations
-- developed content creation and distribution suite - micro-services, Laravel
-- developed of data analysis/visualisation tools 
+- developed content creation and distribution suite - DCP, micro-services, Laravel
+- developed of data analysis/visualisation/forecast tools 
 - integration of new SaaS system 
 
-`2009-2010`
-**Certipost**
-* _PKI Solution Manager_
-
 `2000-2005`
-**Hypertrust**
+**Hypertrust nv**
 - _CTO & co-founder_
 - architect of secure PKI-based digital notarisation products
 
@@ -39,42 +39,49 @@ CTO, software architect
 - management/technology consultancy
 
 `1998-2000`
-**Globalsign**
+**Belsign/Globalsign nv**
 - _Product Manager / VP Operations_
 - build and operate accredited dedicated PKI data center
 
 `1997-1998`
-**Keyware Technologies**
+**Keyware Technologies nv**
 - _Business Development Manager_
 - biometric security solutions
 
 `1993-1997`
-**Sopres Marketing**
+**Sopres Marketing SA**
 - _Database Developer_
 - marketing databases and direct marketing services
 
 ## Side projects
 
 `2020-now`
-**Bashful Scripting**: newsletter, podcast, headlines on _bash scripting_
+**Bashful Scripting**: 
+- newsletter, podcast, headlines on _bash scripting_
 
 `2013-2014`
-**be-tango**: tango teacher for beginner's courses
+**be-tango**: 
+- tango teacher for beginner's courses
 
 `2011-2018`
-**tangopaparazzo.com**: semi-professional tango photography all over EMEA
+**tangopaparazzo.com**: 
+- semi-professional tango photography all over EMEA
 
 `2007-2016`
-**www.milonga.be**: calendar & photos for Belgian argentine tango dancers
+**www.milonga.be**: 
+- calendar & photos for Belgian argentine tango dancers
 
 `2007-2015`
-**www.brusselblogt.be**: city blog for Flemish people in Brussels
+**www.brusselblogt.be**: 
+- city blog for Flemish people in Brussels
 
 `2006-now`
-**toolstud.io**: web-based tools, calculators, converters (ad-supported, strong SEO)
+**toolstud.io**: 
+- web-based tools, calculators, converters (ad-supported, strong SEO)
 
 `2004-now`
-**blog.forret.com**: personal blog on technology and cultural topics
+**blog.forret.com**: 
+- personal blog on technology and cultural topics
 
 ## Education
 
