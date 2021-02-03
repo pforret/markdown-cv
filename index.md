@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Peter Forret's CV
+title: Peter Forret
 ---
 # Peter Forret
-![](https://avatars.githubusercontent.com/u/474312?s=200&u=40180cc6243c8ea6115c8456dcaed6754cb2339f&v=4)
 `CTO, software architect`
+![](https://avatars.githubusercontent.com/u/474312?s=200&u=40180cc6243c8ea6115c8456dcaed6754cb2339f&v=4)
 
 <div id="webaddress">
 <a href="peter@forret.com">peter@forret.com</a>
@@ -24,34 +24,37 @@ title: Peter Forret's CV
 **Brightfish nv**: 
 - _Technical Director_ 
 - responsible for software development for planning and operations
-- designed and developed DCP content creation and distribution suite
-- designed and developed data analysis/visualisation/forecast tools 
-- integration of new SaaS workflow system 
+- 📽️ designed and developed DCP content creation and distribution suite (2011-2017)
+- 📽️ designed and developed data analysis/visualisation/forecast tools (2017-2019)
+- 📽️ designed micro-service architecture to facilitate migration to new SaaS (2020-)
 
 `2000-2005`
 **Hypertrust nv**
 - _CTO & co-founder_
-- architect of secure PKI-based digital notarisation products
+- 🔏️ designed secure PKI-based digital notarisation products
+- 🔏 developed first digital registered mail application in Belgium 
 
 `2000-now`
 **forret.com BV**
 - _owner_
-- management/technology consultancy
+- 💡 management/technology consultancy
+- 💡 event/portrait photography
 
 `1998-2000`
 **Belsign/Globalsign nv**
-- _Product Manager / VP Operations_
-- build and operate accredited dedicated PKI data center
+- _VP Operations_
+- 🔐 product manager PKI authentication/notarisation
+- 🔐 build and operate accredited dedicated PKI data center
 
 `1997-1998`
 **Keyware Technologies nv**
 - _Business Development Manager_
-- biometric security solutions
+- 🎤 biometric security solutions
 
 `1993-1997`
 **Sopres Marketing SA**
 - _Database Developer_
-- marketing databases and direct marketing services
+- 🗄️ marketing databases and direct marketing services
 
 ## Side projects
 
@@ -96,7 +99,8 @@ __Master of Science (burg.ir.), K.U.Leuven__
 * born in Roeselare, 02-09-1969
 * married, 3 kids
 * living in Grimbergen
-* remote work or within Belgium 
+* remote work or within Belgium
+* Myers-Briggs: ENFP
 
 <!-- ### Footer
 
