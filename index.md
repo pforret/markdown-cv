@@ -13,6 +13,7 @@ title: Peter Forret
 - (web) application architecture, product requirements, technical writing
 - microservices, devops, automation, PKI & security
 - audio/video/image processing
+- AWS, Azure
 - PHP, Laravel
 
 ## Experience
