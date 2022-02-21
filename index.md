@@ -3,20 +3,21 @@ layout: cv
 title: Peter Forret
 ---
 # Peter Forret
-`CTO, software architect`
 ![](https://avatars.githubusercontent.com/u/474312?s=200&u=40180cc6243c8ea6115c8456dcaed6754cb2339f&v=4)
+
+`CTO, software architect`
 
 <div id="webaddress">
 <a href="peter@forret.com">peter@forret.com</a>
-| <a href="http://blog.forret.com">blog.forret.com</a>
+| <a href="https://blog.forret.com">blog.forret.com</a>
 </div>
 
 ### Specialized in
 
 - (web) application architecture, product requirements, technical writing
 - microservices, devops, automation, PKI & security
-- audio/video/image processing, Wordpress, PHP, Laravel
-
+- audio/video/image processing
+- PHP, Laravel
 
 ## Experience
 
@@ -61,14 +62,15 @@ title: Peter Forret
 `2020-now`
 **Bashful Scripting**: 
 - newsletter, podcast, headlines on _bash scripting_
+- `bashew` micro framework
 
 `2013-2014`
 **be-tango**: 
 - tango teacher for beginner's courses
 
 `2011-2018`
-**tangopaparazzo.com**: 
-- semi-professional tango photography all over EMEA
+**www.tangopaparazzo.com**: 
+- tango photography all over EMEA
 
 `2007-2016`
 **www.milonga.be**: 
@@ -104,6 +106,6 @@ __Master of Science (burg.ir.), K.U.Leuven__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2022 -->
 
 
