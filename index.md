@@ -6,14 +6,9 @@ title: Peter Forret
 
 ![](https://avatars.githubusercontent.com/u/474312?s=200&u=40180cc6243c8ea6115c8456dcaed6754cb2339f&v=4)
 
-### CTO, software architect
+# CTO, software architect
 
-<div id="webaddress">
-<a href="peter@forret.com">peter@forret.com</a>
-| <a href="https://blog.forret.com">blog.forret.com</a>
-</div>
-
-### Specialized in
+## Specialized in
 
 - (web) application architecture, product requirements, technical writing
 - microservices, devops, automation, PKI & security
@@ -89,6 +84,14 @@ __1987-1992: Master of Science (burg.ir.), K.U.Leuven__
 * living in Grimbergen
 * remote work or within Belgium
 * Myers-Briggs: ENFP
+
+## Contact
+
+<div id="webaddress">
+<a href="peter@forret.com">peter@forret.com</a>
+| <a href="https://blog.forret.com">blog.forret.com</a>
+</div>
+
 
 <!-- ### Footer
 
