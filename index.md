@@ -24,9 +24,9 @@ title: Peter Forret
 **2006-now: Brightfish nv**: 
 - _Technical Director_ 
 - responsible for software development for planning and operations
-- 📽️ designed and developed DCP content creation and distribution suite (2011-2017)
-- 📽️ designed and developed data analysis/visualisation/forecast tools (2017-2019)
 - 📽️ designed micro-service architecture to facilitate migration to new SaaS (2020-)
+- 📽️ designed and developed data analysis/visualisation/forecast tools (2017-2019)
+- 📽️ designed and developed DCP content creation and distribution suite (2011-2017)
 
 **2000-2005: Hypertrust nv**
 - _CTO & co-founder_
@@ -54,26 +54,26 @@ title: Peter Forret
 ## Side projects
 
 **2020-now: Bashful Scripting**: 
-- newsletter, podcast, headlines on _bash scripting_
-- `bashew` micro framework
+- 🔨 newsletter, podcast, headlines on _bash scripting_
+- 🔨 `bashew` micro framework
 
 **2013-2014: be-tango**: 
-- tango teacher for beginner's courses
+- 🕺 tango teacher for beginner's courses
 
 **2011-2018: www.tangopaparazzo.com**: 
-- tango photography all over EMEA
+- 📷 tango photography all over EMEA
 
 **2007-2016: www.milonga.be**: 
-- calendar & photos for Belgian argentine tango dancers
+- 📷 calendar & photos for Belgian argentine tango dancers
 
 **2007-2015: www.brusselblogt.be**: 
-- city blog for Flemish people in Brussels
+- 📰 city blog for Flemish people in Brussels
 
 **2006-now: toolstud.io**: 
-- web-based tools, calculators, converters (ad-supported, strong SEO)
+- 🔨 web-based tools, calculators, converters (ad-supported, strong SEO)
 
 **2004-now: blog.forret.com**: 
-- personal blog on technology and cultural topics
+- 📰 personal blog on technology and cultural topics
 
 ## Education
 
