@@ -85,16 +85,14 @@ __1987-1992: Master of Science (burg.ir.), K.U.Leuven__
 * remote work or within Belgium
 * Myers-Briggs: ENFP
 
-## Contact
+## More info
 
-<div id="webaddress">
-<a href="peter@forret.com">peter@forret.com</a>
-| <a href="https://blog.forret.com">blog.forret.com</a>
-</div>
+* [peter@forret.com](mailto:peter@forret.com)
+* [blog.forret.com](https://blog.forret.com)
+* [LinkedIn](https://www.linkedin.com/in/peterforret/)
 
 
 <!-- ### Footer
-
 Last updated: Feb 2022 -->
 
 
