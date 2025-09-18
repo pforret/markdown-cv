@@ -10,7 +10,7 @@ title: Peter Forret
 
 ## Specialized in
 
-- A.I. : audio/video quality control, forercasting, MCP services
+- A.I. : audio/video quality control, forecasting, MCP services
 - (web) application architecture, product requirements, technical writing
 - microservices, devops, automation, PKI & security
 - audio/video/image processing
