@@ -10,6 +10,7 @@ title: Peter Forret
 
 ## Specialized in
 
+- A.I. : audio/video quality control, forercasting, MCP services
 - (web) application architecture, product requirements, technical writing
 - microservices, devops, automation, PKI & security
 - audio/video/image processing
@@ -21,7 +22,8 @@ title: Peter Forret
 **2006-now: Brightfish nv**: 
 - _Technical Director_ 
 - responsible for software development for planning and operations
-- 📽️ designed micro-service architecture to facilitate migration to new SaaS (2020-)
+- 📽️ developed A.I. assisted applications for news analysis, media processing, admissions forecasting (2024-now)
+- 📽️ designed micro-service architecture to facilitate migration to new SaaS (2020-2023)
 - 📽️ designed and developed data analysis/visualisation/forecast tools (2017-2019)
 - 📽️ designed and developed DCP content creation and distribution suite (2011-2017)
 
